@@ -1,6 +1,6 @@
-# AlphaXiv
+# AlphaXiv mobile
 
-AlphaXiv is a SwiftUI app for managing and viewing arXiv papers.
+AlphaXiv mobile is a SwiftUI app for managing and viewing arXiv papers.
 
 ## Features
 
